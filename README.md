@@ -16,7 +16,7 @@ In personal and professional settings, the ability to communicate effectively is
 
 #
 
-Alex: "*It took me a while to learn that attributes are horrible as descriptions and communication is important."*
+> Alex: "*It took me a while to learn that attributes are horrible as descriptions and communication is important."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
