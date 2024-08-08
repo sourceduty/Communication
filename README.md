@@ -23,7 +23,7 @@ The attempts of lies in communication can lead to a breakdown in communication q
 
 > Alex: "*It took me a while to learn that attributes are horrible as descriptions and communication is important."*
 
-> Alex: "*I'm dumbfounded by intentional communicashun errors, misuse and the stupiddity that this portrays.*"
+> Alex: "*I'm dumbfounded by intentional communication errors, misuse and the stupidity that this portrays.*"
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
