@@ -31,6 +31,17 @@ These investigations often involve various methods, such as surveys, interviews,
 The outcomes of communication investigations can lead to significant improvements in how individuals and organizations communicate. On a personal level, these improvements can lead to stronger, more fulfilling relationships and a greater understanding of others' perspectives. Professionally, effective communication can enhance teamwork, increase efficiency, and lead to better outcomes for the organization. Ultimately, by investigating and refining communication practices, both individuals and organizations can foster environments where information is shared openly and effectively, leading to more successful interactions and relationships.
 
 #
+### Related Links
+
+[English Orthoepy](https://github.com/sourceduty/English_Orthoepy)
+<br>
+[Encrypted Exchange](https://github.com/sourceduty/Encrypted_Exchange)
+<br>
+[Wolrd Systems](https://github.com/sourceduty/World_Systems)
+<br>
+[Language Barriers](https://github.com/sourceduty/Language_Barriers)
+
+#
 
 > Alex: "*It took me a while to learn that attributes are horrible as descriptions and communication is important."*
 
