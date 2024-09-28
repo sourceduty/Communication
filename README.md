@@ -17,6 +17,8 @@ In personal and professional settings, the ability to communicate effectively is
 #
 ### Fake Honesty
 
+![Comms](https://github.com/user-attachments/assets/a3a342f9-3702-4da2-90e0-fa8c8225c35e)
+
 Falsification of earnestness or genuine behavior is a common tactic used by individuals to gain trust or manipulate a situation. By presenting themselves as sincere and authentic, these individuals create an appearance of reliability and honesty, which can be incredibly persuasive. This deceitful approach often involves mimicking the verbal and non-verbal cues associated with genuine emotions, such as making eye contact, using a warm tone of voice, and showing concern or empathy. The goal is to build rapport and create a false sense of security, which can make the target more susceptible to manipulation.
 
 This kind of falsification can be particularly effective because people generally have a strong desire to trust others, especially those who appear to share their values or interests. When someone is seen as genuine, they are more likely to be given the benefit of the doubt, even when there might be red flags. The manipulator takes advantage of this human tendency, carefully crafting their behavior to align with the expectations and desires of their target. By doing so, they can steer situations in their favor, whether it is to gain personal advantage, manipulate outcomes, or achieve specific goals.
