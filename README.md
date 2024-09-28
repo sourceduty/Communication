@@ -35,7 +35,7 @@ In the digital age, the medium itself often shapes the content of the communicat
 #
 ### ChatGPT and DALL-E 3 Visual Communication
 
-![Pirate](https://github.com/user-attachments/assets/33dbc249-71a6-4167-aa2f-cbe9c3b2978b)
+![Pirate](https://github.com/user-attachments/assets/f11b4d0d-c040-42cd-9884-9399ef39f70b)
 
 Investigating how ChatGPT and DALL-E 3 communicate with users using images reveals a fascinating approach to personalized visual interaction. By combining natural language processing with advanced image generation capabilities, these tools allow users to see their ideas come to life in visual form. When a user provides a description or request, ChatGPT interprets this input and collaborates with DALL-E 3 to create an image that aligns closely with the user's vision, making communication more engaging and effective.
 
