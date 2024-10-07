@@ -1,4 +1,4 @@
-![Communication](https://github.com/user-attachments/assets/f4a81eae-c40b-444d-a80a-f0d7e6672d68)
+![Brain Mouth](https://github.com/user-attachments/assets/742507ab-d381-4b1d-b07c-461d051faa32)
 
 > Human communication as talking, writing, articulation and conveyance.
 
