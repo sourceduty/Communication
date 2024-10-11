@@ -75,6 +75,13 @@ Beyond aesthetics, design communication also addresses functionality and user ex
 Furthermore, design communication extends to the storytelling aspect of design, where visual elements are used to narrate a story or convey a brand’s ethos. This is often seen in advertising, where images, text, and layout work together to create compelling narratives that resonate with the audience. Designers use visual metaphors, symbolism, and composition to craft stories that capture attention and communicate messages on a deeper level. Whether it’s a print advertisement or a digital campaign, effective design communication can influence perceptions, elicit emotional responses, and drive engagement, making it a powerful tool for connecting with audiences and conveying complex ideas in an accessible and impactful way.
 
 #
+### Passive-Aggressive Indirect Communication
+
+Passive-aggressive behavior is a form of indirect expression of negative feelings, where an individual may appear to agree or comply on the surface but resists or acts out in subtle ways. This behavior can include actions such as procrastination, stubbornness, sarcasm, or intentional inefficiency. Rather than addressing issues directly, a person using passive-aggressive tactics might avoid open communication, leading to tension and confusion in relationships. This form of behavior is often a coping mechanism for people who struggle with direct confrontation or have difficulty expressing their emotions openly.
+
+At its core, passive-aggressive behavior often stems from a fear of conflict or feelings of powerlessness, making it a way to express discontent while avoiding direct confrontation. This can create a cycle of frustration, as the other party involved may sense the underlying hostility but is unsure how to address it due to the subtlety of the behavior. Over time, passive-aggressiveness can erode trust and respect in relationships, as it prevents honest communication and resolution of issues. Recognizing and addressing these behaviors can be key to developing healthier communication patterns and more constructive ways of dealing with conflict.
+
+#
 
 > Alex: "*It took me a while to learn that attributes are horrible as descriptions and communication is important."*
 
