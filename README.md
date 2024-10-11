@@ -85,6 +85,8 @@ At its core, passive-aggressive behavior often stems from a fear of conflict or 
 
 > Alex: "*It took me a while to learn that attributes are horrible as descriptions and communication is important."*
 
+> "*I'm usually confused when I read and edit this repo as people's stupidity is confusing.*"
+
 #
 ### Related Links
 
