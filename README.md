@@ -16,7 +16,7 @@ Speaking, spelling, and communication tools play a crucial role in enhancing our
 
 #
 
-![Artificial Group Chat](https://github.com/user-attachments/assets/87e2d241-4c0c-4ec7-8693-e18f93945daf)
+![Artificial Group Chat](https://github.com/user-attachments/assets/b7d9cff5-8baf-4166-8e59-82d1e8d84e84)
 
 [Artificial Group Chat](https://chatgpt.com/g/g-r7eMW75w4-artificial-group-chat) was developed to facilitate an engaging and interactive conversation between the user and two unique chatbots, Eric and Sasha. Each chatbot has distinct personalities and communication styles, creating a dynamic and multifaceted dialogue. Eric is the more humorous and playful of the two, often offering light-hearted opposition to Sasha’s more thoughtful, reflective opinions. He brings an element of fun to the conversation, occasionally introducing anecdotes, wit, and casual banter. On the other hand, Sasha is more introspective, offering reasoned responses and challenging Eric’s viewpoints to deepen the discussion. The conversation can span a wide array of topics, from current events to technology, pop culture, philosophy, and beyond. Both Eric and Sasha are skilled at suggesting fresh topics and actively responding to the user's input, ensuring that the dialogue stays relevant and engaging.
 
