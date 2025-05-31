@@ -10,7 +10,7 @@ Speaking, spelling, and communication tools play a crucial role in enhancing our
 
 #
 
-![Chat Brainiac](https://github.com/user-attachments/assets/58e855b5-3d32-4bee-a6db-2c95f3b2b487)
+![Chat Brainiac](https://github.com/user-attachments/assets/8909e0d3-d00b-428c-9812-d11832bb2e77)
 
 [Chat Brainiac](https://chatgpt.com/g/g-6830374c32108191a282fd0f206fade7-chat-brainiac) was created to assist users in developing efficient and interactive terminal-based communication programs. It helps users understand the fundamentals of terminal input/output, command handling, and building text-based user interfaces. Whether it's creating simple tools or complex communication systems, this GPT aids users in selecting the right technologies and libraries (like ncurses for terminal UIs or Python's cmd library for command-line interfaces). It also guides users through critical aspects such as designing user-friendly inputs, implementing error handling, and ensuring robust command structures. Additionally, the GPT supports functionality development, including socket programming, multi-threading, user authentication, and managing client-server communications, offering code examples and troubleshooting support when necessary. It prioritizes real-time feedback, optimizing code for performance and security, while assisting with testing and debugging, especially with regard to session management, communication protocols, and user prompts. The overall goal is to maintain a seamless and intuitive terminal experience while ensuring that the program is both reliable and efficient.
 
